@@ -1,0 +1,2 @@
+# barras
+Visualizacion de informacion 
